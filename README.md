@@ -1,0 +1,1 @@
+i made a profile card as a daily project. I found out video in yt showing how to make but pausing video at 0:00 second i started creating this. Took a lot of time but learnt lots of ideas of css. I still havent watched the video yet.
